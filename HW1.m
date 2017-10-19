@@ -1,3 +1,18 @@
+GB comments:
+Prob1: 100%
+Prob2:
+P1:100
+P2: 50 First for loop doesn’t work on the generation of a new sequence.  Wants to iterate 14x but only 4 elements in a stop_codon array. The final max orf lengths should be concatenated into a single array. 
+P3:50 No probability output produced. 
+P4:25 plot doesn’t work
+P5:0 No answer given
+Prob3
+P1: 100
+P2:50 For loop doesn’t work. 
+P3:50  Plot doesn’t work and no labels
+Overall: 65
+
+
 % Homework 1. Due before class on 9/5/17
 
 %% Problem 1 - addition with strings
